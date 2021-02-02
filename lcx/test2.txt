@@ -2,3 +2,5 @@ Added test2 file on master branch.
 Solved the conflict between master and test-branch-1.
 
 Someone edited this from remote.
+
+Someone edited this again from remote.
